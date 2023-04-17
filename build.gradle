@@ -11,8 +11,8 @@ plugins {
 
 group = 'my.study'
 version = '1.0'
-sourceCompatibility = "17"
-targetCompatibility = "17"
+sourceCompatibility = "11"
+targetCompatibility = "11"
 
 repositories {
     mavenCentral()
